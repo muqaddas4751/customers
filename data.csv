@@ -1,0 +1,11 @@
+CustomerID,Name,City,Product,Category,Sales,Profit,Month
+1,Ali,Lahore,Mobile,Electronics,50000,8000,Jan
+2,Sara,Karachi,Laptop,Electronics,120000,20000,Jan
+3,Ahmed,Islamabad,Tablet,Electronics,30000,5000,Feb
+4,Hina,Lahore,Shoes,Fashion,20000,4000,Feb
+5,Usman,Karachi,Shirt,Fashion,15000,2500,Mar
+6,Ayesha,Islamabad,Laptop,Electronics,100000,15000,Mar
+7,Bilal,Lahore,Shirt,Fashion,18000,3000,Apr
+8,Noor,Karachi,Mobile,Electronics,60000,9000,Apr
+9,Imran,Lahore,Shoes,Fashion,22000,3500,May
+10,Zara,Islamabad,Mobile,Electronics,70000,11000,May
